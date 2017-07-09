@@ -2,4 +2,7 @@
   <input pattern="(hola|buenas) *">
     <output value="Hola!"/>
   </input>
+  <input pattern="(zed|build zed) *">
+    <output value="http://www.probuilds.net/champions/details/Zed"/>
+  </input>
 </context>

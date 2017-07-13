@@ -2,10 +2,415 @@
   <input pattern="(hola|buenas) *">
     <output value="Hola!"/>
   </input>
-  <input pattern="* (gragas) *">
-      <output value="http://www.probuilds.net/champions/details/Gragas"/>
+  <input pattern="* (aatrox) *">
+      <output value="http://www.probuilds.net/champions/details/Aatrox"/>
     </input>
+  <input pattern="* (ahri) *">
+    <output value="http://www.probuilds.net/champions/details/Ahri"/>
+  </input>
+  <input pattern="* (akali) *">
+    <output value="http://www.probuilds.net/champions/details/Akali"/>
+  </input>
+  <input pattern="* (alistar) *">
+    <output value="http://www.probuilds.net/champions/details/Alistar"/>
+  </input>
+  <input pattern="* (amumu) *">
+    <output value="http://www.probuilds.net/champions/details/Amumu"/>
+  </input>
+  <input pattern="* (anivia) *">
+    <output value="http://www.probuilds.net/champions/details/Anivia"/>
+  </input>
+  <input pattern="* (annie) *">
+    <output value="http://www.probuilds.net/champions/details/Annie"/>
+  </input>
+  <input pattern="* (ashe) *">
+    <output value="http://www.probuilds.net/champions/details/Ashe"/>
+  </input>
+  <input pattern="* (aurelion sol| aurelion) *">
+    <output value="http://www.probuilds.net/champions/details/AurelionSol"/>
+  </input>
+  <input pattern="* (azir) *">
+    <output value="http://www.probuilds.net/champions/details/Azir"/>
+  </input>
+  <input pattern="* (bardo) *">
+    <output value="http://www.probuilds.net/champions/details/Bardo"/>
+  </input>
+  <input pattern="* (blitzcrank| blitz) *">
+    <output value="http://www.probuilds.net/champions/details/Blitzcrank"/>
+  </input>
+  <input pattern="* (brand) *">
+    <output value="http://www.probuilds.net/champions/details/Brand"/>
+  </input>
+  <input pattern="* (braum) *">
+    <output value="http://www.probuilds.net/champions/details/Braum"/>
+  </input>
+  <input pattern="* (caitlyn| cait) *">
+    <output value="http://www.probuilds.net/champions/details/Caitlyn"/>
+  </input>
+  <input pattern="* (camille) *">
+    <output value="http://www.probuilds.net/champions/details/Camille"/>
+  </input>
+  <input pattern="* (cassiopeia| cassio| cass) *">
+    <output value="http://www.probuilds.net/champions/details/Cassiopeia"/>
+  </input>
+  <input pattern="* (chogath| cho| cho'gath| chogath) *">
+    <output value="http://www.probuilds.net/champions/details/Chogath"/>
+  </input>
+  <input pattern="* (corki) *">
+    <output value="http://www.probuilds.net/champions/details/Corki"/>
+  </input>
+  <input pattern="* (darius) *">
+    <output value="http://www.probuilds.net/champions/details/Darius"/>
+  </input>
+  <input pattern="* (Diana) *">
+    <output value="http://www.probuilds.net/champions/details/Diana"/>
+  </input>
+    </input>
+  <input pattern="* (Dr. Mundo| mundo) *">
+    <output value="http://www.probuilds.net/champions/details/DrMundo"/>
+  </input>
+  <input pattern="* (draven) *">
+    <output value="http://www.probuilds.net/champions/details/Draven"/>
+  </input>
+  <input pattern="* (ekko) *">
+    <output value="http://www.probuilds.net/champions/details/Ekko"/>
+  </input>
+    </input>
+  <input pattern="* (elise) *">
+    <output value="http://www.probuilds.net/champions/details/Elise"/>
+  </input>
+  <input pattern="* (evelynn| evelyn| eve) *">
+    <output value="http://www.probuilds.net/champions/details/Evelynn"/>
+  </input>
+  <input pattern="* (ezreal| ez) *">
+    <output value="http://www.probuilds.net/champions/details/Ezreal"/>
+  </input>
+    </input>
+  <input pattern="* (fiddlesticks| fiddle| fidel) *">
+    <output value="http://www.probuilds.net/champions/details/Fiddelsticks"/>
+  </input>
+  <input pattern="* (fiora) *">
+    <output value="http://www.probuilds.net/champions/details/Fiora"/>
+  </input>
+  <input pattern="* (fizz) *">
+    <output value="http://www.probuilds.net/champions/details/Fizz"/>
+  </input>
+    </input>
+  <input pattern="* (galio) *">
+    <output value="http://www.probuilds.net/champions/details/Galio"/>
+  </input>
+  <input pattern="* (gangplanlk| gp) *">
+    <output value="http://www.probuilds.net/champions/details/Gangplanlk"/>
+  </input>
+  <input pattern="* (garen) *">
+    <output value="http://www.probuilds.net/champions/details/Garen"/>
+  </input>
+    </input>
+  <input pattern="* (gnar) *">
+    <output value="http://www.probuilds.net/champions/details/Gnar"/>
+  </input>
+  <input pattern="* (gragas| garggy) *">
+    <output value="http://www.probuilds.net/champions/details/Gragas"/>
+  </input>
+  <input pattern="* (graves) *">
+    <output value="http://www.probuilds.net/champions/details/Graves"/>
+  </input>
+    </input>
+  <input pattern="* (hecarim| heca| pony) *">
+    <output value="http://www.probuilds.net/champions/details/Hecarim"/>
+  </input>
+  <input pattern="* (heimerdinger| heimer) *">
+    <output value="http://www.probuilds.net/champions/details/Heimerdinger"/>
+  </input>
+  <input pattern="* (illaio| ilaio) *">
+    <output value="http://www.probuilds.net/champions/details/Illaio"/>
+  </input>
+  <input pattern="* (irelia) *">
+    <output value="http://www.probuilds.net/champions/details/Irelia"/>
+  </input>
+  <input pattern="* (ivern) *">
+    <output value="http://www.probuilds.net/champions/details/Ivern"/>
+  </input>
+  <input pattern="* (janna) *">
+    <output value="http://www.probuilds.net/champions/details/Janna"/>
+  </input>
+    <input pattern="* (jarvan| jarvan iv) *">
+    <output value="http://www.probuilds.net/champions/details/JarvanIV"/>
+  </input>
+  <input pattern="* (jax) *">
+    <output value="http://www.probuilds.net/champions/details/Jax"/>
+  </input>
+  <input pattern="* (jayce) *">
+    <output value="http://www.probuilds.net/champions/details/Jayce"/>
+  </input>
+  <input pattern="* (jhin) *">
+    <output value="http://www.probuilds.net/champions/details/Jhin"/>
+  </input>
+    <input pattern="* (jinx) *">
+    <output value="http://www.probuilds.net/champions/details/Jinx"/>
+  </input>
+  <input pattern="* (kalista) *">
+    <output value="http://www.probuilds.net/champions/details/Kalista"/>
+  </input>
+  <input pattern="* (karma) *">
+    <output value="http://www.probuilds.net/champions/details/Karma"/>
+  </input>
+  <input pattern="* (karthus|kartus) *">
+    <output value="http://www.probuilds.net/champions/details/Karthus"/>
+  </input>
+    <input pattern="* (kassadin|kassa|kasa|kass) *">
+    <output value="http://www.probuilds.net/champions/details/Kassadin"/>
+  </input>
+  <input pattern="* (katarina| pentarina|kata) *">
+    <output value="http://www.probuilds.net/champions/details/Katarina"/>
+  </input>
+  <input pattern="* (kayle) *">
+    <output value="http://www.probuilds.net/champions/details/kayle"/>
+  </input>
+  <input pattern="* (kayn) *">
+    <output value="http://www.probuilds.net/champions/details/Kayn"/>
+  </input>
+    <input pattern="* (kennen| kenen) *">
+    <output value="http://www.probuilds.net/champions/details/Kennen"/>
+  </input>
+  <input pattern="* (k6| kha six| khasix| kha'six| kha| kha zix| khazix| kha'zix) *">
+    <output value="http://www.probuilds.net/champions/details/Khazix"/>
+  </input>
+  <input pattern="* (kindred) *">
+    <output value="http://www.probuilds.net/champions/details/Kinderd"/>
+  </input>
+  <input pattern="* (kled) *">
+    <output value="http://www.probuilds.net/champions/details/Kled"/>
+  </input>
+    <input pattern="* (kogmaw| kog| kog'maw) *">
+    <output value="http://www.probuilds.net/champions/details/KogMaw"/>
+  </input>
+  <input pattern="* (lb| leblanc) *">
+    <output value="http://www.probuilds.net/champions/details/Leblanc"/>
+  </input>
+  <input pattern="* (lee| luisin) *">
+    <output value="http://www.probuilds.net/champions/details/Leesin"/>
+  </input>
+  <input pattern="* (Leona) *">
+    <output value="http://www.probuilds.net/champions/details/Leona"/>
+  </input>
+    <input pattern="* (liss|lisandra|lissandra) *">
+    <output value="http://www.probuilds.net/champions/details/Lissandra"/>
+  </input>
+  <input pattern="* (lucian) *">
+    <output value="http://www.probuilds.net/champions/details/Lucian"/>
+  </input>
+  <input pattern="* (lulu) *">
+    <output value="http://www.probuilds.net/champions/details/Lulu"/>
+  </input>
+  <input pattern="* (lux) *">
+    <output value="http://www.probuilds.net/champions/details/lux"/>
+  </input>
+    <input pattern="* (yi| master yi| maestro yi) *">
+    <output value="http://www.probuilds.net/champions/details/MasterYi"/>
+  </input>
+  <input pattern="* (malphite| malph) *">
+    <output value="http://www.probuilds.net/champions/details/Malphite"/>
+  </input>
+  <input pattern="* (malzahar| malz| malza) *">
+    <output value="http://www.probuilds.net/champions/details/Malzahar"/>
+  </input>
+  <input pattern="* (maokai) *">
+    <output value="http://www.probuilds.net/champions/details/Maokai"/>
+  </input>
+    <input pattern="* (mf| miss fortune) *">
+    <output value="http://www.probuilds.net/champions/details/MissFortune"/>
+  </input>
+  <input pattern="* (mordekaiser| morde) *">
+    <output value="http://www.probuilds.net/champions/details/Mordekaiser"/>
+  </input>
+  <input pattern="* (morgana) *">
+    <output value="http://www.probuilds.net/champions/details/Morgana"/>
+  </input>
+  <input pattern="* (nami) *">
+    <output value="http://www.probuilds.net/champions/details/Nami"/>
+  </input>
+  <input pattern="* (nasus) *">
+    <output value="http://www.probuilds.net/champions/details/Nasus"/>
+  </input>
+  <input pattern="* (naut| nautilus) *">
+    <output value="http://www.probuilds.net/champions/details/Nautilus"/>
+  </input>
+    <input pattern="* (nida| nidalee) *">
+    <output value="http://www.probuilds.net/champions/details/Nidalee"/>
+  </input>
+  <input pattern="* (nocturne) *">
+    <output value="http://www.probuilds.net/champions/details/Nocturne"/>
+  </input>
+  <input pattern="* (nunu) *">
+    <output value="http://www.probuilds.net/champions/details/Nunu"/>
+  </input>
+    <input pattern="* (olaf) *">
+    <output value="http://www.probuilds.net/champions/details/Olaf"/>
+  </input>
+  <input pattern="* (ori| orianna) *">
+    <output value="http://www.probuilds.net/champions/details/Orianna"/>
+  </input>
+  <input pattern="* (pantheon| panth) *">
+    <output value="http://www.probuilds.net/champions/details/Pantheon"/>
+  </input>
+    <input pattern="* (poppy| popy) *">
+    <output value="http://www.probuilds.net/champions/details/Poppy"/>
+  </input>
+  <input pattern="* (quinn| quin) *">
+    <output value="http://www.probuilds.net/champions/details/Quinn"/>
+  </input>
+  <input pattern="* (rammus| ramus) *">
+    <output value="http://www.probuilds.net/champions/details/Rammus"/>
+  </input>
+    <input pattern="* (reksai| rek| rek'sai) *">
+    <output value="http://www.probuilds.net/champions/details/RekSai"/>
+  </input>
+  <input pattern="* (rene| renekton| renek) *">
+    <output value="http://www.probuilds.net/champions/details/Renekton"/>
+  </input>
+  <input pattern="* (rengar) *">
+    <output value="http://www.probuilds.net/champions/details/Rengar"/>
+  </input>
+    <input pattern="* (riven) *">
+    <output value="http://www.probuilds.net/champions/details/Riven"/>
+  </input>
+  <input pattern="* (rumble) *">
+    <output value="http://www.probuilds.net/champions/details/Rumble"/>
+  </input>
+  <input pattern="* (ryze) *">
+    <output value="http://www.probuilds.net/champions/details/Ryze"/>
+  </input>
+    <input pattern="* (sejuani) *">
+    <output value="http://www.probuilds.net/champions/details/Sejuani"/>
+  </input>
+  <input pattern="* (shaco) *">
+    <output value="http://www.probuilds.net/champions/details/Shaco"/>
+  </input>
+  <input pattern="* (shen) *">
+    <output value="http://www.probuilds.net/champions/details/Shen"/>
+  </input>
+    <input pattern="* (shyv| shyvana) *">
+    <output value="http://www.probuilds.net/champions/details/Shyvana"/>
+  </input>
+  <input pattern="* (singed) *">
+    <output value="http://www.probuilds.net/champions/details/Singed"/>
+  </input>
+  <input pattern="* (sion) *">
+    <output value="http://www.probuilds.net/champions/details/Sion"/>
+  </input>
+    <input pattern="* (sivir) *">
+    <output value="http://www.probuilds.net/champions/details/Sivir"/>
+  </input>
+  <input pattern="* (skar| skarner) *">
+    <output value="http://www.probuilds.net/champions/details/Skarner"/>
+  </input>
+  <input pattern="* (sona) *">
+    <output value="http://www.probuilds.net/champions/details/Sna"/>
+  </input>
+    <input pattern="* (soraka) *">
+    <output value="http://www.probuilds.net/champions/details/Soraka"/>
+  </input>
+  <input pattern="* (swain) *">
+    <output value="http://www.probuilds.net/champions/details/Swain"/>
+  </input>
+  <input pattern="* (syndra) *">
+    <output value="http://www.probuilds.net/champions/details/syndra"/>
+  </input>
+    <input pattern="* (tahm| thamkench) *">
+    <output value="http://www.probuilds.net/champions/details/ThamKench"/>
+  </input>
+  <input pattern="* (taliya| taliyah) *">
+    <output value="http://www.probuilds.net/champions/details/Taliyah"/>
+  </input>
+  <input pattern="* (talon) *">
+    <output value="http://www.probuilds.net/champions/details/Talon"/>
+  </input>
+    <input pattern="* (taric) *">
+    <output value="http://www.probuilds.net/champions/details/Taric"/>
+  </input>
+  <input pattern="* (teemo) *">
+    <output value="http://www.probuilds.net/champions/details/Teemo"/>
+  </input>
+  <input pattern="* (thresh| tresh) *">
+    <output value="http://www.probuilds.net/champions/details/Thresh"/>
+  </input>
+    <input pattern="* (tris| tristana) *">
+    <output value="http://www.probuilds.net/champions/details/Tristana"/>
+  </input>
+  <input pattern="* (trundle) *">
+    <output value="http://www.probuilds.net/champions/details/Trundle"/>
+  </input>
+  <input pattern="* (trynda| tryndamere) *">
+    <output value="http://www.probuilds.net/champions/details/Tryndamere"/>
+  </input>
+    <input pattern="* (tf| twisted fate) *">
+    <output value="http://www.probuilds.net/champions/details/TwistedFate"/>
+  </input>
+  <input pattern="* (twitch| twich) *">
+    <output value="http://www.probuilds.net/champions/details/Twitch"/>
+  </input>
+  <input pattern="* (udyr) *">
+    <output value="http://www.probuilds.net/champions/details/Udyr"/>
+  </input>
+    <input pattern="* (Urgot) *">
+    <output value="http://www.probuilds.net/champions/details/Urgot"/>
+  </input>
+  <input pattern="* (varus) *">
+    <output value="http://www.probuilds.net/champions/details/Varus"/>
+  </input>
+  <input pattern="* (vayne) *">
+    <output value="http://www.probuilds.net/champions/details/Vayne"/>
+  </input>
+    <input pattern="* (veigar) *">
+    <output value="http://www.probuilds.net/champions/details/Veigar"/>
+  </input>
+  <input pattern="* (vel'koz| velkoz) *">
+    <output value="http://www.probuilds.net/champions/details/Velkoz"/>
+  </input>
+  <input pattern="* (vi) *">
+    <output value="http://www.probuilds.net/champions/details/Vi"/>
+  </input>
+    <input pattern="* (viktor) *">
+    <output value="http://www.probuilds.net/champions/details/Viktor"/>
+  </input>
+  <input pattern="* (vlad| vladimir) *">
+    <output value="http://www.probuilds.net/champions/details/Vladimir"/>
+  </input>
+  <input pattern="* (voli| volibear) *">
+    <output value="http://www.probuilds.net/champions/details/Volibear"/>
+  </input>  
+  <input pattern="* (ww| warwick| warwik) *">
+    <output value="http://www.probuilds.net/champions/details/Warwick"/>
+  </input>
+  <input pattern="* (wu| wukong) *">
+    <output value="http://www.probuilds.net/champions/details/Wukong"/>
+  </input>
+  <input pattern="* (xerath) *">
+    <output value="http://www.probuilds.net/champions/details/Xerath"/>
+  </input>
+    <input pattern="* (xin zhao| xin ) *">
+    <output value="http://www.probuilds.net/champions/details/XinZhao"/>
+  </input>
+  <input pattern="* (yasuo) *">
+    <output value="http://www.probuilds.net/champions/details/Yasuo"/>
+  </input>
+  <input pattern="* (yorick) *">
+    <output value="http://www.probuilds.net/champions/details/Yorick"/>
+  </input>
+  <input pattern="* (zac) *">
+    <output value="http://www.probuilds.net/champions/details/Zac"/>
+  </input>
   <input pattern="* (zed) *">
     <output value="http://www.probuilds.net/champions/details/Zed"/>
+  </input>
+  <input pattern="* (ziggs| zigs) *">
+    <output value="http://www.probuilds.net/champions/details/Ziggs"/>
+  </input>
+    <input pattern="* (zilean) *">
+    <output value="http://www.probuilds.net/champions/details/Zilean"/>
+  </input>
+  <input pattern="* (zyra) *">
+    <output value="http://www.probuilds.net/champions/details/Zyra"/>
   </input>
 </context>

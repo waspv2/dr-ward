@@ -1,10 +1,7 @@
 <context>
-  <input pattern="(hola|buenas) *">
-    <output value="Hola!"/>
-  </input>
-  <input pattern="* (aatrox) *">
+  <input pattern="* (aatrox| atrox) *">
       <output value="http://www.probuilds.net/champions/details/Aatrox"/>
-    </input>
+  </input>
   <input pattern="* (ahri) *">
     <output value="http://www.probuilds.net/champions/details/Ahri"/>
   </input>
@@ -95,7 +92,7 @@
   <input pattern="* (galio) *">
     <output value="http://www.probuilds.net/champions/details/Galio"/>
   </input>
-  <input pattern="* (gangplanlk| gp) *">
+  <input pattern="* (gangplank| gp) *">
     <output value="http://www.probuilds.net/champions/details/Gangplanlk"/>
   </input>
   <input pattern="* (garen) *">
@@ -104,7 +101,7 @@
   <input pattern="* (gnar) *">
     <output value="http://www.probuilds.net/champions/details/Gnar"/>
   </input>
-  <input pattern="* (gragas| garggy) *">
+  <input pattern="* (gragas| graggy) *">
     <output value="http://www.probuilds.net/champions/details/Gragas"/>
   </input>
   <input pattern="* (graves) *">
@@ -116,8 +113,8 @@
   <input pattern="* (heimerdinger| heimer) *">
     <output value="http://www.probuilds.net/champions/details/Heimerdinger"/>
   </input>
-  <input pattern="* (illaio| ilaio) *">
-    <output value="http://www.probuilds.net/champions/details/Illaio"/>
+  <input pattern="* (ilaoi| illaoi) *">
+    <output value="http://www.probuilds.net/champions/details/Illaoi"/>
   </input>
   <input pattern="* (irelia) *">
     <output value="http://www.probuilds.net/champions/details/Irelia"/>
@@ -253,6 +250,9 @@
   </input>
   <input pattern="* (quinn| quin) *">
     <output value="http://www.probuilds.net/champions/details/Quinn"/>
+</input>
+  <input pattern="* (rakan| rak ) *">
+    <output value="http://www.probuilds.net/champions/details/Rakan"/>
   </input>
   <input pattern="* (rammus| ramus) *">
     <output value="http://www.probuilds.net/champions/details/Rammus"/>
@@ -300,7 +300,7 @@
     <output value="http://www.probuilds.net/champions/details/Skarner"/>
   </input>
   <input pattern="* (sona) *">
-    <output value="http://www.probuilds.net/champions/details/Sna"/>
+    <output value="http://www.probuilds.net/champions/details/Sona"/>
   </input>
     <input pattern="* (soraka) *">
     <output value="http://www.probuilds.net/champions/details/Soraka"/>
@@ -373,13 +373,16 @@
   </input>
   <input pattern="* (voli| volibear) *">
     <output value="http://www.probuilds.net/champions/details/Volibear"/>
-  </input>  
+  </input>
   <input pattern="* (ww| warwick| warwik) *">
     <output value="http://www.probuilds.net/champions/details/Warwick"/>
   </input>
   <input pattern="* (wu| wukong) *">
     <output value="http://www.probuilds.net/champions/details/Wukong"/>
-  </input>
+ </input>
+  <input pattern="* (xa| xa) *">
+    <output value="http://www.probuilds.net/champions/details/Xayah"/>
+</input>
   <input pattern="* (xerath) *">
     <output value="http://www.probuilds.net/champions/details/Xerath"/>
   </input>

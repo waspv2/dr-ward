@@ -65,7 +65,6 @@
   <input pattern="* (Diana) *">
     <output value="http://www.probuilds.net/champions/details/Diana"/>
   </input>
-    </input>
   <input pattern="* (Dr. Mundo| mundo) *">
     <output value="http://www.probuilds.net/champions/details/DrMundo"/>
   </input>
@@ -75,7 +74,6 @@
   <input pattern="* (ekko) *">
     <output value="http://www.probuilds.net/champions/details/Ekko"/>
   </input>
-    </input>
   <input pattern="* (elise) *">
     <output value="http://www.probuilds.net/champions/details/Elise"/>
   </input>
@@ -85,7 +83,6 @@
   <input pattern="* (ezreal| ez) *">
     <output value="http://www.probuilds.net/champions/details/Ezreal"/>
   </input>
-    </input>
   <input pattern="* (fiddlesticks| fiddle| fidel) *">
     <output value="http://www.probuilds.net/champions/details/Fiddelsticks"/>
   </input>
@@ -95,7 +92,6 @@
   <input pattern="* (fizz) *">
     <output value="http://www.probuilds.net/champions/details/Fizz"/>
   </input>
-    </input>
   <input pattern="* (galio) *">
     <output value="http://www.probuilds.net/champions/details/Galio"/>
   </input>
@@ -105,7 +101,6 @@
   <input pattern="* (garen) *">
     <output value="http://www.probuilds.net/champions/details/Garen"/>
   </input>
-    </input>
   <input pattern="* (gnar) *">
     <output value="http://www.probuilds.net/champions/details/Gnar"/>
   </input>
@@ -115,7 +110,6 @@
   <input pattern="* (graves) *">
     <output value="http://www.probuilds.net/champions/details/Graves"/>
   </input>
-    </input>
   <input pattern="* (hecarim| heca| pony) *">
     <output value="http://www.probuilds.net/champions/details/Hecarim"/>
   </input>
